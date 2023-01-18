@@ -1,3 +1,6 @@
 [submodule "server"]
 	path = server
 	url = https://github.com/ja88a/cosmos-icda-checkers-server.git
+[submodule "src/server"]
+	path = src/server
+	url = https://github.com/ja88a/cosmos-icda-checkers-server.git
